@@ -14,3 +14,5 @@ This is followed by the use of OpenCV functions to extract the Radial Coefficien
 
 
 
+NOTE:
+Make sure to put the icons in the scripts folder.
